@@ -1,4 +1,4 @@
 # ApnaCollegeDemo
 This is a Practise repository
 <br>
-Author : Pankaj Jain
+Author : Pankaj Jain Pretups
